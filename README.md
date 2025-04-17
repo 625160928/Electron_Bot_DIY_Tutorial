@@ -1,6 +1,6 @@
-[TOC]
-
 # 麻瓜也能复刻的电子机器人精英版A2制作教程
+
+立志帮助大部分小白能够顺利流畅的复刻绿荫大佬的电子精英版教程
 
 [电子机器人A2版Github项目链接镇楼](https://maker-community.github.io/electronbot-doc/)
 

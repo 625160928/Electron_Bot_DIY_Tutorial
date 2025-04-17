@@ -121,8 +121,11 @@ PCB打板的话我选择嘉立创打板，一方面是**可以**白嫖，另一�
 
 ## 2. 元器件购买+3D打印外壳
 
-[物料更新精英版A2 DC-DC](https://maker-community.github.io/electronbot-doc/guide/ProductionProcess/elite-a2-dcdc.html)
+原文档物料图：[物料更新精英版A2 DC-DC](https://maker-community.github.io/electronbot-doc/guide/ProductionProcess/elite-a2-dcdc.html)
 
+之前购买物品时发现物料表其实有所缺失，比如led？
+
+具体下面会单独分析
 
 
 
